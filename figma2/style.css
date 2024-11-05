@@ -1,0 +1,153 @@
+.text{
+    font-size: 1.3cm;
+    color: white;
+    padding: 3px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    height: 20px;
+    width: 20px;
+}
+
+.camera{
+    border: 1px solid #0c0c0c;
+    box-shadow: 2px 2px 5px rgba(87, 82, 82, 0.1); 
+    background-color: rgb(54, 51, 51);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.vintage{
+    color: white;   
+}
+
+.headerText{
+    display: flex;
+    flex-direction: column;
+}
+
+.explore{
+    padding: 8px 20px; 
+    font-size: 30px;   
+    border-radius: 40px;
+    background-color: rgb(54, 51, 51);
+    color: white;
+}
+
+
+.popular{
+    padding-right: 40cm;
+    padding: 1cm;
+    font-size: 0.9cm;
+    color: white;
+    
+}
+.camera2{
+    border: 1px solid #0c0c0c;
+    box-shadow: 2px 2px 5px rgba(87, 82, 82, 0.1); 
+    background-color: rgb(54, 51, 51);
+    display: flex;
+    flex-direction: column;
+    border-radius: 40PX;
+    position: relative;
+    left: 5px;
+}
+
+.name{
+    font-size: medium;
+    color: white;
+    position: relative;
+    left: 7px;
+}
+
+body{
+    background-color: rgb(48, 44, 44);
+    height: screen;
+}
+
+.section{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.pic{
+    width: 200px;
+}
+.camera3{
+    border: 1px solid #0c0c0c;
+    box-shadow: 2px 2px 5px rgba(87, 82, 82, 0.1); 
+    background-color: rgb(54, 51, 51);
+    display: flex;
+    flex-direction: column;
+    border-radius: 40PX;
+    position: relative;
+    right: 400px;
+    top: 420px;
+}
+
+.arrow2{
+    
+    font-size: 20px;
+    background-color: rgb(39, 37, 37);
+    color: white;
+    position: relative;
+    bottom: 40px;
+    left: 50px;
+   width: 30px;
+   border: 1px solid black;
+
+}
+.rating{
+    color: white;
+    padding-left: 8px;
+    
+}
+.star{
+    color: yellow;
+    position: relative;
+    bottom: 54px;
+    left: 32px;
+}
+.lowbox{
+    height: 130px;
+    width: 30px;               
+    padding-left: 380px;              
+    border: 2px solid #040404;     
+    background-color: rgb(54, 51, 51);       
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: relative;
+    top: 770px;
+    right: 810px;
+    display: flex;
+    flex-direction: column;
+    text-align: 500px; 
+   border-radius: 25px;
+}
+.home{
+   position: relative;
+   right: 360px;
+   top: 50px;
+}
+.book{
+   position: relative;
+   right: 250px;
+   top: 10px;
+}
+.bell{
+   position: relative;
+   right: 140px;
+   bottom: 32px;
+}
+.user{
+   position: relative;
+   right: 30px;
+   bottom: 72px;
+}

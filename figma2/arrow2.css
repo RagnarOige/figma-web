@@ -1,0 +1,107 @@
+body{
+    background-color: rgb(48, 44, 44);
+    height: screen;
+}
+.arrow3{
+    color: white;
+    font-size: 20px;
+    background-color:  rgb(48, 44, 44);
+    color: white;
+    position: relative;
+    bottom: 2px;
+    left: 2px;
+   width: 500px;
+   border: 1px solid  rgb(48, 44, 44);;
+}
+.image{
+   
+    align-items: center;
+    position: relative;
+    
+    left: 10px;
+}
+.bigbox{
+    border-radius: 14PX;
+    margin: 20px auto;     
+    border: 2px solid #333;
+    background-color: rgb(54, 51, 51); 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    position: relative;
+    right: 8px;
+   left: 2px;
+}
+.name2{
+    color: white;
+    position: relative;
+    left: 19px;
+    font-size: 20px;
+}  
+.plus{
+    display: flex;    
+    position: relative;
+    left: 260px;
+    bottom: 42px;
+    color: white ;
+    background-color:  rgb(53, 51, 51);
+}
+.numero{
+    display: flex;    
+    position: relative;
+    left: 300px;
+    bottom: 76px;
+    color: white ; 
+}
+.minus{
+    display: flex;    
+    position: relative;
+    left: 330px;
+    bottom: 112px;
+    color: white ;
+    background-color: rgb(53, 51, 51);
+}
+.rating{
+    color: white;
+    padding-left: 36px;
+    position: relative;
+    bottom: 96px;
+}
+.star{
+    color: yellow;
+    position: relative;
+    bottom: 133px;
+    padding-left: 19px;
+    
+}
+.reviews{
+    color: rgb(134, 132, 132);
+    position: relative;
+    bottom: 164px;
+    left: 64px;
+    font-size: 12px;
+}
+.skibidi{
+    color: white;
+    position: relative;
+    bottom: 145px;
+
+}
+.bookmark{
+    background-color:  rgb(54, 51, 51);
+    color: white;
+    border-radius: 14px;
+    padding: 4px 10px; 
+    font-size: 30px;   
+   position: relative;
+   bottom: 150px;
+   left: 12px;
+}
+.bag{
+    background-color:  rgb(54, 51, 51);
+    color: white;
+    border-radius: 14px;
+    padding: 8px 20px; 
+    font-size: 30px;   
+   position: relative;
+   bottom: 150px;
+   left: 56px;
+}
